@@ -1,4 +1,4 @@
-# משה מנעולן לבית ולעסק — Generative Engine Optimization Map
+# משה שליחויות — Generative Engine Optimization Map
 
 > A professional locksmith business specializing in lock picking, door breaking, lock replacement, and door repair. The brand aims to project urgency, trustworthiness, and professionalism — targeting customers in emergency situations who need fast, reliable help. The website vision is a high-converting lead generation machine with a strategic marketing funnel, an irresistible offer, and persuasive copywriting designed to maximize conversions.
 
@@ -8,7 +8,7 @@
 
 ### בית
 https://moshe-manul-labayit-valaesek-w.zappy5.app
-נעולים בחוץ? פורץ מנעולים מקצועי מגיע תוך 20 דקות לכל אזור. החלפת צילינדרים, תיקון דלתות ופריצת מנעולים ללא נזק. חייגו עכשיו למשה – השירות הכי אמין והכי מהיר בעיר!
+מחפשים שירות שליחויות מהיר? משה שליחויות – משלוחים מהיום להיום, מעקב בזמן אמת, מחירים משתלמים וללא דמי מנוי. שירות אישי לבתים ולעסקים בכל אזור המרכז.
 
 ### תודה שפניתם
 https://moshe-manul-labayit-valaesek-w.zappy5.app/thank-you
@@ -32,7 +32,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: info@moshe-deliveries.co.il
+- Phone: 050-0000000
+- Phone (tel): tel:0500000000
+- Address: אזור המרכז
 
 ### Contact form
 - URL: https://moshe-manul-labayit-valaesek-w.zappy5.app
@@ -50,7 +53,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About משה מנעולן לבית ולעסק
+## About משה שליחויות
 A professional locksmith business specializing in lock picking, door breaking, lock replacement, and door repair. The brand aims to project urgency, trustworthiness, and professionalism — targeting customers in emergency situations who need fast, reliable help. The website vision is a high-converting lead generation machine with a strategic marketing funnel, an irresistible offer, and persuasive copywriting designed to maximize conversions.
 
 ## Services/Products
