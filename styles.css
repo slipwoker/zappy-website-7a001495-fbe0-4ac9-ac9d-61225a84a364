@@ -5132,6 +5132,10 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-hero-section .index-hero-section-divider-wrapper svg path {
+  fill: #0D0D0D;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

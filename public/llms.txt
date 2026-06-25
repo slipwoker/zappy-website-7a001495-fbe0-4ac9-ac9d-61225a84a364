@@ -10,6 +10,10 @@
 https://moshe-manul-labayit-valaesek-w.zappy5.app
 נעולים בחוץ? פורץ מנעולים מקצועי מגיע תוך 20 דקות לכל אזור. החלפת צילינדרים, תיקון דלתות ופריצת מנעולים ללא נזק. חייגו עכשיו למשה – השירות הכי אמין והכי מהיר בעיר!
 
+### תודה שפניתם
+https://moshe-manul-labayit-valaesek-w.zappy5.app/thank-you
+משה מנעולן לבית ולעסק - תודה שפניתם
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -29,6 +33,18 @@ Information about WCAG compliance and accessibility features.
 ## How to Contact Us
 
 - (No contact details configured yet.)
+
+### Contact form
+- URL: https://moshe-manul-labayit-valaesek-w.zappy5.app
+- Endpoint: https://moshe-manul-labayit-valaesek-w.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
