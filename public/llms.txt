@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://moshe-manul-labayit-valaesek-w.zappy5.app
 נעולים בחוץ? פורץ מנעולים מקצועי מגיע תוך 20 דקות לכל אזור. החלפת צילינדרים, תיקון דלתות ופריצת מנעולים ללא נזק. חייגו עכשיו למשה – השירות הכי אמין והכי מהיר בעיר!
 
 ### תודה שפניתם
-https://example.com/thank-you
+https://moshe-manul-labayit-valaesek-w.zappy5.app/thank-you
 משה מנעולן לבית ולעסק - תודה שפניתם
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://moshe-manul-labayit-valaesek-w.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://moshe-manul-labayit-valaesek-w.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://moshe-manul-labayit-valaesek-w.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://moshe-manul-labayit-valaesek-w.zappy5.app
+- Endpoint: https://moshe-manul-labayit-valaesek-w.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -71,6 +71,6 @@ Locksmith Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://moshe-manul-labayit-valaesek-w.zappy5.app/sitemap.xml
+- Robots: https://moshe-manul-labayit-valaesek-w.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://moshe-manul-labayit-valaesek-w.zappy5.app/llms-full.txt
