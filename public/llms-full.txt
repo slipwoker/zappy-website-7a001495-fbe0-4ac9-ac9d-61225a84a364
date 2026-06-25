@@ -2,13 +2,13 @@
 
 A professional locksmith business specializing in lock picking, door breaking, lock replacement, and door repair. The brand aims to project urgency, trustworthiness, and professionalism — targeting customers in emergency situations who need fast, reliable help. The website vision is a high-converting lead generation machine with a strategic marketing funnel, an irresistible offer, and persuasive copywriting designed to maximize conversions.
 
-Source: https://-7a001495.zappy5.app
+Source: https://example.com
 
 ---
 
 ## פורץ מנעולים 24/7 – שירות חירום מיידי — משה מנעולן לבית ולעסק
 
-URL: https://-7a001495.zappy5.app
+URL: https://example.com
 Description: נעולים בחוץ? פורץ מנעולים מקצועי מגיע תוך 20 דקות לכל אזור. החלפת צילינדרים, תיקון דלתות ופריצת מנעולים ללא נזק. חייגו עכשיו למשה – השירות הכי אמין והכי מהיר בעיר!
 
 פורץ מנעולים 24/7 – שירות חירום מיידי — משה מנעולן לבית ולעסק
@@ -680,7 +680,7 @@ Description: נעולים בחוץ? פורץ מנעולים מקצועי מגי�
 
 ## מדיניות פרטיות
 
-URL: https://-7a001495.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -949,7 +949,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-7a001495.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1227,7 +1227,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-7a001495.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1524,7 +1524,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם
 
-URL: https://-7a001495.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: משה מנעולן לבית ולעסק - תודה שפניתם
 
 תודה שפניתם
